@@ -23,7 +23,7 @@ const Hero = () => (
         </motion.h1>
         <motion.div
           variants={textVariant(1.2)}
-          className="flex flex-row items-center justify-center"
+          className="flex flex-row items-center justify-center mb-10"
         >
           <h1 className={styles.heroHeading} style={{ fontFamily: 'Photograph, sans-serif' }}>Primaveras</h1>
         </motion.div>
