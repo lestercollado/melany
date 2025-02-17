@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Rubeckia';
+  src: url('/fonts/Rubeckia.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Photograph';
+  src: url('/fonts/Photograph.ttf') format('truetype');
+  font-weight: normal;
+}
