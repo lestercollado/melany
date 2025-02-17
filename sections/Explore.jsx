@@ -22,7 +22,7 @@ const Explore = () => {
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
         <TypingText title="| Fotos que me gustan" textStyles="text-center" />
-        <TitleText title={<>Algunas foticos de resumen<br className="md:block hidden " /></>} textStyles="text-center" />
+        <TitleText title={<>Unas foticos de la pieza...<br className="md:block hidden " /></>} textStyles="text-center" />
 
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
           {exploreWorlds.map((world, index) => (
