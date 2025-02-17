@@ -73,6 +73,6 @@ export const socials = [
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: 'https://www.instagram.com/_i_am_melany/',
+    link: 'https://www.instagram.com/_iam_melany/',
   },
 ];
