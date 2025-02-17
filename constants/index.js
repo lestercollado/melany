@@ -2,27 +2,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/1.JPG',
-    title: 'The Hogwarts',
+    title: '3 Años',
   },
   {
     id: 'world-2',
     imgUrl: '/2.JPG',
-    title: 'The Upside Down',
+    title: '6 años',
   },
   {
     id: 'world-3',
     imgUrl: '/3.JPG',
-    title: 'Hueco Mundo',
+    title: '10 años',
   },
   {
     id: 'world-4',
     imgUrl: '/4.JPG',
-    title: 'Paradise Island',
+    title: '12 años',
   },
   {
     id: 'world-5',
     imgUrl: '/5.JPG',
-    title: 'Hawkins Labs',
+    title: '15 años',
   },
 ];
 
