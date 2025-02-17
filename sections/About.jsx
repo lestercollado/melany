@@ -25,7 +25,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        Mi nombre es <span className="font-extrabold"> Melany Pérez Collado </span> nací el 17 de febrero de 2010. Desde pequeña mis ratos libres los paso con mis primas 🫂, montando bicicleta 🚲 y haciendo manualidades 🧶 (uiii que monada 😏). <br/>
+        Desde pequeña mis ratos libres los paso con mis primas 🫂, montando bicicleta 🚲 y haciendo manualidades 🧶 (uiii que monada 😏). <br/>
         Me caracterizo por coger buenas calificaciones y participar en concursos (toda una polillona 👩🏻‍🎓).
         Mi familia es bastante extensa 🧑‍🧑‍🧒‍🧒, al comenzar la secundaria he conocido muchísimas amistades 🫶🏻 (una matica de wara).<br/>
         A los 9 años estuve en clases de danza 💃🏻 (de ahí mis grandes dotes como bailarina 😋).<br/>
